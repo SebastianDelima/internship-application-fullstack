@@ -13,19 +13,19 @@ Using Cloudflare Workers, you'll deploy an application that will randomly send u
 
 ## Get Started
 
-<!-- ### 1. Install the workers command-line tool wrangler.
+### 1. Install the workers command-line tool wrangler.
 
 The Workers Quick Start in the documentation shows how to get started with Wrangler, creating a project, and configuring and deploying it. We highly recommend that you spend time reading and following along with this guide!
 
-To begin, install the [Wrangler](https://github.com/cloudflare/wrangler) command-line tool. -->
+To begin, install the [Wrangler](https://github.com/cloudflare/wrangler) command-line tool.
 
-<!-- ### 2. Generate a new project using `wrangler generate` command
+### 2. Generate a new project using `wrangler generate` command
 
 Using the `generate` command (covered in the Quick Start), generate a new project with a name of your choice:
 
 ```sh
 $ wrangler generate your-project-name https://github.com/cloudflare-internship-2020/internship-application-fullstack
-``` -->
+```
 
 ### 3. Use `wrangler dev` to locally test/develop your application
 
