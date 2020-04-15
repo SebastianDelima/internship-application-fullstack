@@ -13,11 +13,11 @@ Using Cloudflare Workers, you'll deploy an application that will randomly send u
 
 ## Get Started
 
-### 1. Install the workers command-line tool wrangler.
+<!-- ### 1. Install the workers command-line tool wrangler.
 
 The Workers Quick Start in the documentation shows how to get started with Wrangler, creating a project, and configuring and deploying it. We highly recommend that you spend time reading and following along with this guide!
 
-To begin, install the [Wrangler](https://github.com/cloudflare/wrangler) command-line tool.
+To begin, install the [Wrangler](https://github.com/cloudflare/wrangler) command-line tool. -->
 
 ### 2. Generate a new project using `wrangler generate` command
 
